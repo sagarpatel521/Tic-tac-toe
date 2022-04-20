@@ -1,4 +1,4 @@
-# E-commerce Website
+# Tic-tac-toe Theme Based Concept
 
 Hello Everyone, This is theme based Tic-tac-toe Game(Based on Shoot and Shot Concept):
 In the Starting of game User needs to Choose Player:
@@ -27,4 +27,5 @@ Project is developed using the Pure HTML, CSS, JavaScript.
 </p>
 <br>
 
+### Thank You!
 For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya/)
