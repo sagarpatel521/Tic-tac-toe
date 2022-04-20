@@ -21,6 +21,10 @@ Project is developed using the Pure HTML, CSS, JavaScript.
 ### Step 2. During the game User will able to take mouse as a Gun
 
 ### Step 3. On User click Gun Point will fire gun bullet
-![packageFile](/images/Game shot.png)
+<br>
+<p align="center">
+  <img src="images/Game shot.png">
+</p>
+<br>
 
 For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya/)
