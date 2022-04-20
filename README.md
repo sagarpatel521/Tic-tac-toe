@@ -1,64 +1,26 @@
 # E-commerce Website
 
-Hello Everyone, This project is based on E-Commerce Website. Through the Website I created the two side: 
+Hello Everyone, This is theme based Tic-tac-toe Game(Based on Shoot and Shot Concept):
+In the Starting of game User needs to Choose Player:
 ```
-1. Admin Panel
-2. User Panel
+1. Player X
+2. Player O
 ```
-Project is developed using the HTML, CSS, Bootstrap, JavaScript, ASP.NET and SQL Database. With Using Microsoft Visual Studio 2015.
+Project is developed using the Pure HTML, CSS, JavaScript.
 
-# Flow Chart(User Side)
+# User Interface
 <br>
 <p align="center">
-  <img src="docs/flow-chart-user-side.png">
+  <img src="images/tic-tac-toe game.png">
 </p>
 <br>
 
-# Flow Description
-### Step 1. Register your account
-```
-1.1 Register User account
-1.2 Log In User
-```
-![packageFile](/images/tic-tac-toe game.png)
+# User flow
+### Step 1. After Selecting Player Game will Start
 
+### Step 2. During the game User will able to take mouse as a Gun
 
-### Step 2. Redirect to Home Page
-```
-2.1 Checkout the Home Page
-```
-![packageFile](/docs/index.png)
+### Step 3. On User click Gun Point will fire gun bullet
+![packageFile](/images/Game shot.png)
 
-
-### Step 3. Select Product
-```
-3.1 Select the Product from Product Page
-```
-![packageFile](/docs/productpage.png)
-
-
-### Step 4. Check Product Details
-```
-5. Go to the Individual Product
-6. Choose your suitable Size
-7. Press Add Cart
-```
-![packageFile](/docs/singleproduct.png)
-
-
-### Step 5. Checkout
-```
-8. Go to Cart
-9. Check your Total Amount
-10. Choose your Payment Method
-```
-![packageFile](/docs/cartpage.png)
-
-# Flow Chart(Admin Side)
-<br>
-<p align="center">
-  <img src="docs/flow-chart-admin-side.png">
-</p>
-<br>
-
-For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya-9930a8188/)
+For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya/)
