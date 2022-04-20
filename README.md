@@ -27,5 +27,11 @@ Project is developed using the Pure HTML, CSS, JavaScript.
 </p>
 <br>
 
+### 4. Winner Team Pop-up or Tie Pop-up.
+<br>
+<p align="center">
+  <img src="images/winner.png">
+</p>
+<br>
 ### Thank You!
 For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya/)
