@@ -16,11 +16,11 @@ Project is developed using the Pure HTML, CSS, JavaScript.
 <br>
 
 # User flow
-### Step 1. After Selecting Player Game will Start
+### 1. After Selecting Player Game will Start
 
-### Step 2. During the game User will able to take mouse as a Gun
+### 2. During the game User will able to take mouse as a Gun
 
-### Step 3. On User click Gun Point will fire gun bullet
+### 3. On User click Gun Point will fire gun bullet
 <br>
 <p align="center">
   <img src="images/Game shot.png">
